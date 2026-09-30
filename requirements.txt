@@ -1,0 +1,7 @@
+click
+pytest
+rich
+astroid
+pytest-cov
+pyinstrument
+coverage
